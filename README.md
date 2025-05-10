@@ -18,7 +18,7 @@ CheatSheet
 - <https://simplecounter.app/>
 - <https://spc.askul.co.jp/portal/print/qrcode>
 - <https://tshinobu.com/lab/get-page-link/>
-- https://www.google.co.jp/
+- <https://www.google.co.jp/>
 
 ## Internet
 - <https://fast.com/ja/>
