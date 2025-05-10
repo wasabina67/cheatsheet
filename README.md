@@ -20,6 +20,9 @@ CheatSheet
 ## Internet
 - https://fast.com/ja/
 - https://speedtest.gate02.ne.jp/
+- https://www.cman.jp/network/support/go_access.cgi
+- https://nordvpn.com/ja/what-is-my-ip/
+- https://www.ugtop.com/spill.shtml
 - https://env.b4iine.net/isp.php
 
 ## Favicon
