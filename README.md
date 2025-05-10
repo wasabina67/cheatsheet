@@ -6,8 +6,11 @@ CheatSheet
 - https://www.iloveimg.com/ja
 - https://time.is/en/
 - https://example.com/
+- https://ondoku3.com/ja/
+- https://mojiokoshi3.com/ja/
 
 ## Placeholder
+- https://simplecounter.app/
 - https://spc.askul.co.jp/portal/print/qrcode
 - https://tshinobu.com/lab/get-page-link/
 
