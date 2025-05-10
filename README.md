@@ -8,6 +8,9 @@ CheatSheet
 - https://example.com/
 - https://ondoku3.com/ja/
 - https://mojiokoshi3.com/ja/
+- https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/
+- https://mobaku.jp/
+- https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## Placeholder
 - https://simplecounter.app/
