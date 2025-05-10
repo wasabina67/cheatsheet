@@ -23,4 +23,7 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             git config user.name "GitHub Action"
             git config user.email "action@github.com"
+            git add README.md
+            git commit -m "Linkify README.md"
+            git push
           fi
