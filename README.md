@@ -6,6 +6,8 @@ CheatSheet
 - https://www.iloveimg.com/ja
 - https://time.is/en/
 - https://example.com/
+
+## Tools
 - https://spc.askul.co.jp/portal/print/qrcode
 - https://tshinobu.com/lab/get-page-link/
 
