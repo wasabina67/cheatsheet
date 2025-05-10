@@ -1,0 +1,23 @@
+name: auto-linkify-readme
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  linkify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Wrap bare URLs with <>
+        run: |
+          sed -E -i 's#(https?://[^ >]+)#<\1>#g' README.md
+      - name: Commit & push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ls -al
