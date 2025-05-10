@@ -11,6 +11,7 @@ CheatSheet
 - <https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/>
 - <https://mobaku.jp/>
 - <https://www.webfx.com/tools/emoji-cheat-sheet/>
+- https://herp.careers/careers/jobs
 
 ## Tools
 - <https://simplecounter.app/>
