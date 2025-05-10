@@ -25,5 +25,6 @@ jobs:
             git config user.email "action@github.com"
             git add README.md
             git commit -m "Linkify README.md"
+            sleep 60
             git push
           fi
