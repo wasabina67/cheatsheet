@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
       - name: Wrap bare URLs with <>
         run: |
-          perl -pe 's/(?<!<)(https?:\/\/[^ >]+)(?!>)/<$1>/g' README.md > README.tmp && mv README.tmp README.md
+          sed -E -i "s#(^|[^<])(https?://[^ >]+)#\1<\2>#g" README.md
       - name: Commit & push if changed
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
