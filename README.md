@@ -17,7 +17,7 @@ CheatSheet
 - https://spc.askul.co.jp/portal/print/qrcode
 - https://tshinobu.com/lab/get-page-link/
 
-## Placeholder
+## Internet
 - https://fast.com/ja/
 - https://speedtest.gate02.ne.jp/
 - https://env.b4iine.net/isp.php
