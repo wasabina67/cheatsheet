@@ -12,7 +12,7 @@ CheatSheet
 - <https://mobaku.jp/>
 - <https://www.webfx.com/tools/emoji-cheat-sheet/>
 - <https://herp.careers/careers/jobs>
-- https://www.aozora.gr.jp/index.html
+- <https://www.aozora.gr.jp/index.html>
 
 ## Tools
 - <https://simplecounter.app/>
