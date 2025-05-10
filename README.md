@@ -3,6 +3,7 @@ CheatSheet
 
 ## aaa
 - https://imagecompressor.com/ja/
+- https://spc.askul.co.jp/portal/print/qrcode
 
 ## Favicon
 - https://favicon-generator.mintsu-dev.com/
