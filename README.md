@@ -26,6 +26,7 @@ CheatSheet
 - <https://nordvpn.com/ja/what-is-my-ip/>
 - <https://www.ugtop.com/spill.shtml>
 - <https://env.b4iine.net/isp.php>
+- https://security.nifty.com/mailchecktool/
 
 ## Favicon
 - <https://favicon-generator.mintsu-dev.com/>
