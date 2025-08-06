@@ -2,7 +2,7 @@
 CheatSheet
 
 ## Tools
-- https://imagecompressor.com/ja/
+- [オンラインイメージ最適化ツール](https://imagecompressor.com/ja/)
 - https://www.iloveimg.com/ja
 - https://time.is/en/
 - https://example.com/
