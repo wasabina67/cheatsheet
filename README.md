@@ -10,6 +10,8 @@ CheatSheet
 
 ### aaa
 - [Example Domain](https://example.com/)
+- [Example Domain (.net)](https://example.net/)
+- [Example Domain (.org)](https://example.org/)
 
 ### Favicon
 - [https://favicon-generator.mintsu-dev.com/](https://favicon-generator.mintsu-dev.com/)
