@@ -22,6 +22,10 @@ CheatSheet
 - [プロバイダー確認君(IPoE確認君)](https://env.b4iine.net/isp.php)
 - [個人情報流出チェッカー](https://security.nifty.com/mailchecktool/)
 
+### Map
+- [モバイル空間統計](https://mobaku.jp/)
+- [地理院地図](https://maps.gsi.go.jp)
+
 ### Earthquake
 - [リアルタイム震度](https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/)
 - [J-SHIS 地震ハザードステーション](https://www.j-shis.bosai.go.jp/)
@@ -29,8 +33,7 @@ CheatSheet
 
 
 ## Tools - 2
-- [モバイル空間統計](https://mobaku.jp/)
-- [地理院地図](https://maps.gsi.go.jp)
+
 
 - [TIME.IS](https://time.is/en/)
 - [Example Domain](https://example.com/)
