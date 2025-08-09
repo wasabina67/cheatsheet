@@ -1,7 +1,7 @@
 # cheatsheet
 CheatSheet
 
-## Tools
+## Tools - 1
 - [オンラインイメージ最適化ツール](https://imagecompressor.com/ja/)
 - [iLoveIMG](https://www.iloveimg.com/ja)
 - [TIME.IS](https://time.is/en/)
@@ -16,7 +16,7 @@ CheatSheet
 - [HERP Careers](https://herp.careers/careers/jobs)
 - [青空文庫](https://www.aozora.gr.jp/index.html)
 
-## Tools
+## Tools - 2
 - [Simple Counter](https://simplecounter.app/)
 - [QRコード作成ツール](https://spc.askul.co.jp/portal/print/qrcode)
 - [ページ一覧取得](https://tshinobu.com/lab/get-page-link/)
