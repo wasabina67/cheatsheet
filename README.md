@@ -30,7 +30,7 @@ CheatSheet
 - [リアルタイム震度](https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/)
 - [J-SHIS 地震ハザードステーション](https://www.j-shis.bosai.go.jp/)
 
-### WIP
+### Career
 - [HERP Careers](https://herp.careers/careers/jobs)
 
 ## Tools - 2
