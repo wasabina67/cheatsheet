@@ -40,6 +40,7 @@ CheatSheet
 
 ### Career
 - [HERP Careers](https://herp.careers/careers/jobs)
+- [Offers](https://offers.jp/)
 
 ## Tools - 2
 - [TIME.IS](https://time.is/en/)
