@@ -8,6 +8,11 @@ CheatSheet
 - [文字起こしさん](https://mojiokoshi3.com/ja/)
 - [QRコード作成ツール](https://spc.askul.co.jp/portal/print/qrcode)
 
+### Favicon
+- [https://favicon-generator.mintsu-dev.com/](https://favicon-generator.mintsu-dev.com/)
+- [https://ao-system.net/favicongenerator/](https://ao-system.net/favicongenerator/)
+- [https://favicon.io/favicon-generator/](https://favicon.io/favicon-generator/)
+
 
 
 ## Tools - 2
@@ -44,10 +49,4 @@ CheatSheet
 - [確認くん](https://www.ugtop.com/spill.shtml)
 - [プロバイダー確認君(IPoE確認君)](https://env.b4iine.net/isp.php)
 - [個人情報流出チェッカー](https://security.nifty.com/mailchecktool/)
-
-## Favicon
-- [Favicon ジェネレーター](https://favicon-generator.mintsu-dev.com/)
-- [favicon generator](https://ao-system.net/favicongenerator/)
-- [Favicon Generator](https://favicon.io/favicon-generator/)
-
 
