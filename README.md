@@ -6,7 +6,7 @@ CheatSheet
 - [iLoveIMG](https://www.iloveimg.com/ja)
 - [音読さん](https://ondoku3.com/ja/)
 - [文字起こしさん](https://mojiokoshi3.com/ja/)
-
+- [QRコード作成ツール](https://spc.askul.co.jp/portal/print/qrcode)
 
 
 
@@ -18,6 +18,7 @@ CheatSheet
 - [TIME.IS](https://time.is/en/)
 - [Example Domain](https://example.com/)
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [Simple Counter](https://simplecounter.app/)
 
 ## Tools - 2
 - [青空文庫](https://www.aozora.gr.jp/index.html)
@@ -30,8 +31,6 @@ CheatSheet
 
 
 ## Tools - 2
-- [Simple Counter](https://simplecounter.app/)
-- [QRコード作成ツール](https://spc.askul.co.jp/portal/print/qrcode)
 - [ページ一覧取得](https://tshinobu.com/lab/get-page-link/)
 
 ## Internet
