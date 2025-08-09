@@ -22,13 +22,13 @@ CheatSheet
 - [ページ一覧取得](https://tshinobu.com/lab/get-page-link/)
 
 ## Internet
-- https://fast.com/ja/
-- https://speedtest.gate02.ne.jp/
-- https://www.cman.jp/network/support/go_access.cgi
-- https://nordvpn.com/ja/what-is-my-ip/
-- https://www.ugtop.com/spill.shtml
-- https://env.b4iine.net/isp.php
-- https://security.nifty.com/mailchecktool/
+- [Fast.com](https://fast.com/ja/)
+- [インターネット回線スピードテスト・通信速度測定 | USEN GATE 02](https://speedtest.gate02.ne.jp/)
+- [グローバルIPアドレス確認 | CMAN](https://www.cman.jp/network/support/go_access.cgi)
+- [グローバルIPアドレス確認 | NordVPN](https://nordvpn.com/ja/what-is-my-ip/)
+- [確認くん](https://www.ugtop.com/spill.shtml)
+- [プロバイダー確認君(IPoE確認君)](https://env.b4iine.net/isp.php)
+- [個人情報流出チェッカー](https://security.nifty.com/mailchecktool/)
 
 ## Favicon
 - [ページ一覧取得](https://favicon-generator.mintsu-dev.com/)
