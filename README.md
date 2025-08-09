@@ -13,6 +13,10 @@ CheatSheet
 - [https://ao-system.net/favicongenerator/](https://ao-system.net/favicongenerator/)
 - [https://favicon.io/favicon-generator/](https://favicon.io/favicon-generator/)
 
+### Internet
+- [Fast.com](https://fast.com/ja/)
+
+
 
 
 ## Tools - 2
