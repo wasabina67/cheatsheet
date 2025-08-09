@@ -31,6 +31,7 @@ CheatSheet
 - [確認くん](https://www.ugtop.com/spill.shtml)
 - [プロバイダー確認君(IPoE確認君)](https://env.b4iine.net/isp.php)
 - [個人情報流出チェッカー](https://security.nifty.com/mailchecktool/)
+- [VPN Gate](https://www.vpngate.net/ja/)
 
 ### Map
 - [モバイル空間統計](https://mobaku.jp/)
