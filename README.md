@@ -43,7 +43,7 @@ CheatSheet
 - [個人情報流出チェッカー](https://security.nifty.com/mailchecktool/)
 
 ## Favicon
-- [ページ一覧取得](https://favicon-generator.mintsu-dev.com/)
+- [Favicon ジェネレーター](https://favicon-generator.mintsu-dev.com/)
 - [favicon generator](https://ao-system.net/favicongenerator/)
 - [Favicon Generator](https://favicon.io/favicon-generator/)
 
