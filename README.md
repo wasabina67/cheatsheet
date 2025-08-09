@@ -53,3 +53,7 @@ CheatSheet
 - [LGTMoon](https://lgtmoon.dev/)
 - [Simple Counter](https://simplecounter.app/)
 - [ページ一覧取得](https://tshinobu.com/lab/get-page-link/)
+
+## Tools - 3
+- [一般社団法人 日本記念日協会](https://www.kinenbi.gr.jp/)
+- [松本歯科大学図書館OPAC ホーム](https://mdu.opac.jp/opac/top)
