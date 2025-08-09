@@ -47,10 +47,3 @@ CheatSheet
 ## Tools - 2
 - [HERP Careers](https://herp.careers/careers/jobs)
 
-
-
-
-
-
-
-
