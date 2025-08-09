@@ -15,9 +15,9 @@ CheatSheet
 - [青空文庫](https://www.aozora.gr.jp/index.html)
 
 ## Tools
-- https://simplecounter.app/
-- https://spc.askul.co.jp/portal/print/qrcode
-- https://tshinobu.com/lab/get-page-link/
+- [Simple Counter](https://simplecounter.app/)
+- [QRコード作成ツール](https://spc.askul.co.jp/portal/print/qrcode)
+- [ページ一覧取得](https://tshinobu.com/lab/get-page-link/)
 
 ## Internet
 - https://fast.com/ja/
