@@ -21,6 +21,9 @@ CheatSheet
 - [Simple Counter](https://simplecounter.app/)
 
 ## Tools - 2
+- [ページ一覧取得](https://tshinobu.com/lab/get-page-link/)
+
+## Tools - 2
 - [青空文庫](https://www.aozora.gr.jp/index.html)
 
 ## Tools - 2
@@ -30,8 +33,7 @@ CheatSheet
 
 
 
-## Tools - 2
-- [ページ一覧取得](https://tshinobu.com/lab/get-page-link/)
+
 
 ## Internet
 - [Fast.com](https://fast.com/ja/)
