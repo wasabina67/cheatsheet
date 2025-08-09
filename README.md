@@ -8,7 +8,7 @@ CheatSheet
 - [Example Domain](https://example.com/)
 - [音読さん](https://ondoku3.com/ja/)
 - [文字起こしさん](https://mojiokoshi3.com/ja/)
-- [リアルタイム震度（強震モニタ） - Yahoo!天気・災害](https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/)
+- [リアルタイム震度](https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/)
 - [モバイル空間統計](https://mobaku.jp/)
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [HERP Careers](https://herp.careers/careers/jobs)
