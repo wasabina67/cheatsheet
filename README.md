@@ -29,6 +29,6 @@ CheatSheet
 - https://security.nifty.com/mailchecktool/
 
 ## Favicon
-- https://favicon-generator.mintsu-dev.com/
-- https://ao-system.net/favicongenerator/
-- https://favicon.io/favicon-generator/
+- [ページ一覧取得](https://favicon-generator.mintsu-dev.com/)
+- [favicon generator](https://ao-system.net/favicongenerator/)
+- [Favicon Generator](https://favicon.io/favicon-generator/)
