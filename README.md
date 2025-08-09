@@ -9,7 +9,9 @@ CheatSheet
 - [音読さん](https://ondoku3.com/ja/)
 - [文字起こしさん](https://mojiokoshi3.com/ja/)
 - [リアルタイム震度](https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/)
+- [J-SHIS 地震ハザードステーション](https://www.j-shis.bosai.go.jp/)
 - [モバイル空間統計](https://mobaku.jp/)
+- [地理院地図](https://maps.gsi.go.jp)
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [HERP Careers](https://herp.careers/careers/jobs)
 - [青空文庫](https://www.aozora.gr.jp/index.html)
@@ -32,3 +34,5 @@ CheatSheet
 - [ページ一覧取得](https://favicon-generator.mintsu-dev.com/)
 - [favicon generator](https://ao-system.net/favicongenerator/)
 - [Favicon Generator](https://favicon.io/favicon-generator/)
+
+- [LGTMoon](https://lgtmoon.dev/)
