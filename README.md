@@ -35,6 +35,9 @@ CheatSheet
 - [リアルタイム震度](https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/)
 - [J-SHIS 地震ハザードステーション](https://www.j-shis.bosai.go.jp/)
 
+### Docs
+- [青空文庫](https://www.aozora.gr.jp/index.html)
+
 ### Career
 - [HERP Careers](https://herp.careers/careers/jobs)
 
@@ -51,8 +54,8 @@ CheatSheet
 
 
 
-## Tools - 2
-- [青空文庫](https://www.aozora.gr.jp/index.html)
+
+
 
 
 
