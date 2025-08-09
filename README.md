@@ -10,8 +10,6 @@ CheatSheet
 
 
 ## Tools - 2
-
-- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [青空文庫](https://www.aozora.gr.jp/index.html)
 
 ## Tools - 2
@@ -21,7 +19,7 @@ CheatSheet
 - [J-SHIS 地震ハザードステーション](https://www.j-shis.bosai.go.jp/)
 - [TIME.IS](https://time.is/en/)
 - [Example Domain](https://example.com/)
-
+- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## Tools - 2
 - [HERP Careers](https://herp.careers/careers/jobs)
