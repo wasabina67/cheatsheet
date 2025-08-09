@@ -30,9 +30,9 @@ CheatSheet
 - [リアルタイム震度](https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/)
 - [J-SHIS 地震ハザードステーション](https://www.j-shis.bosai.go.jp/)
 
-
-
 ## Tools - 2
+
+
 
 
 - [TIME.IS](https://time.is/en/)
