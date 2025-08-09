@@ -4,10 +4,14 @@ CheatSheet
 ## Tools - 1
 - [オンラインイメージ最適化ツール](https://imagecompressor.com/ja/)
 - [iLoveIMG](https://www.iloveimg.com/ja)
-- [TIME.IS](https://time.is/en/)
-- [Example Domain](https://example.com/)
+
+
+
+
 - [音読さん](https://ondoku3.com/ja/)
 - [文字起こしさん](https://mojiokoshi3.com/ja/)
+
+
 - [リアルタイム震度](https://typhoon.yahoo.co.jp/weather/earthquake/kyoshin/)
 - [J-SHIS 地震ハザードステーション](https://www.j-shis.bosai.go.jp/)
 - [モバイル空間統計](https://mobaku.jp/)
@@ -15,6 +19,13 @@ CheatSheet
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [HERP Careers](https://herp.careers/careers/jobs)
 - [青空文庫](https://www.aozora.gr.jp/index.html)
+
+## Tools - 2
+- [TIME.IS](https://time.is/en/)
+- [Example Domain](https://example.com/)
+
+
+
 
 ## Tools - 2
 - [Simple Counter](https://simplecounter.app/)
